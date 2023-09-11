@@ -1,3 +1,3 @@
 <p aling="center" >
-   <img  src = ".github/img1" alt= "demostração " width = "100%" />
+   <img  scr=".github.img1.png" alt = "agora vai " width="100%" />
 </p>
